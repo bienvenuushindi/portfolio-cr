@@ -7,9 +7,6 @@
 - HTML, CSS
 - Git, Linters
 
-## Live Demo 
-
-[Live Demo Link](https://bienvenuushindi.github.io/portfolio/)
 
 ## Getting Started
 
@@ -22,7 +19,7 @@ To get a local copy, follow these simple example steps.
 
 1. Clone this repository or download the Zip folder:
 
-**``git clone git@github.com:bienvenuushindi/portfolio.git``**
+**``git clone git@github.com:bienvenuushindi/portfolio-cr.git``**
 
 2. Navigate to the location of the folder in your machine:
 

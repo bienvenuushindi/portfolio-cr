@@ -345,7 +345,8 @@ li {
 .contact-paragraph {
   font-family: 'Inter', serif;
   font-size: 32px;
-  text-align: center;
+
+  /* text-align: center; */
   color: #172b4d;
   font-weight: 700;
 }
@@ -390,6 +391,13 @@ textarea.input-control {
   border: none;
   align-self: center;
   margin-top: 24px;
+}
+
+.btn:hover {
+  color: #ff6b00;
+  background-color: #fff5e1;
+  border: 1px solid #ff6b00;
+  cursor: pointer;
 }
 
 @media only screen and (min-width: 768px) {
